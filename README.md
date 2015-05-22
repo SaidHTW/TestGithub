@@ -1,2 +1,2 @@
 # TestGithub
-This sucks for the tenth time
+ Love GitHub it is working how it should...
